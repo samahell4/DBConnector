@@ -1,4 +1,5 @@
 <?php
+require('config.php');
 $hote = '';
 $dataBaseName = '';
 $DBuser = '';
