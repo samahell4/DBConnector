@@ -1,4 +1,4 @@
 <?php
   require('function.php');
-  wait(3);
+  wait(2);
 ?>
