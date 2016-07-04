@@ -1,5 +1,5 @@
 <?php
-require('config.php');
+require('config_logdb.php');
 $hote = '';
 $dataBaseName = '';
 $DBuser = '';
